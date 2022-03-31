@@ -1,0 +1,7 @@
+C:\Users\Julio\Desktop\TestWebApp\bin\Release\net6.0\publish\TestWebApp.exe
+C:\Users\Julio\Desktop\TestWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Julio\Desktop\TestWebApp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Julio\Desktop\TestWebApp\bin\Release\net6.0\publish\TestWebApp.dll
+C:\Users\Julio\Desktop\TestWebApp\bin\Release\net6.0\publish\TestWebApp.deps.json
+C:\Users\Julio\Desktop\TestWebApp\bin\Release\net6.0\publish\TestWebApp.runtimeconfig.json
+C:\Users\Julio\Desktop\TestWebApp\bin\Release\net6.0\publish\TestWebApp.pdb
